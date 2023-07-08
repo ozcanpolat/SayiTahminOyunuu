@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp3.1\SayiTahminOyunu.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp3.1\SayiTahminOyunu.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp3.1\SayiTahminOyunu.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp3.1\SayiTahminOyunu.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp3.1\SayiTahminOyunu.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp3.1\SayiTahminOyunu.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp3.1\SayiTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp3.1\SayiTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp3.1\SayiTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp3.1\SayiTahminOyunu.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp3.1\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp3.1\SayiTahminOyunu.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp3.1\SayiTahminOyunu.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp3.1\SayiTahminOyunu.genruntimeconfig.cache
